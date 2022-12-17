@@ -1,6 +1,5 @@
 export {};
 var fs = require("fs");
-const util = require("util");
 // const input = fs.readFileSync(`${__dirname}/sample_input.txt`, "utf8");
 const input = fs.readFileSync(`${__dirname}/sample_input2.txt`, "utf8");
 // const input = fs.readFileSync(`${__dirname}/input.txt`, "utf8");
